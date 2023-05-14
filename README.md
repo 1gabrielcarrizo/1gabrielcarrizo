@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on the last project of Rolling Code
 
-- 🌱 I’m currently learning **QA testing and UX design**
+- 🌱 I’m currently learning **QA testing**
 
-- ⚡ Fun fact **I've an INFJ personality**
+- ⚡ Fun fact **I'm an INFJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
