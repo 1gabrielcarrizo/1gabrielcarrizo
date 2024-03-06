@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on the last project of Rolling Code
 
-- 🌱 I’m currently learning **QA testing**
+- 🌱 I’m currently learning **C#**
 
 - ⚡ Fun fact **I'm an INFJ**
 
