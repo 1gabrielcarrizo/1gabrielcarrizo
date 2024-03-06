@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/1gabrielcarrizo" target="blank"><img src="https://img.shields.io/twitter/follow/1gabrielcarrizo?logo=twitter&style=for-the-badge" alt="1gabrielcarrizo" /></a> </p>
 
-- 🔭 I’m currently working on the last project of Rolling Code
-
 - 🌱 I’m currently learning **C#**
 
 - ⚡ Fun fact **I'm an INFJ**
