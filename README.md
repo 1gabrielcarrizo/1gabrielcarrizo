@@ -3,18 +3,17 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/1gabrielcarrizo" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/1gabrielcarrizo" target="blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 **Estudiante avanzado de Ingeniería en Sistemas**, cursando materias de 4º y 5º año[cite: 1].
-- 💻 Desarrollador Full Stack con enfoque principal en el **stack MERN**[cite: 1] y trabajo bajo metodologías ágiles como Scrum[cite: 1].
-- 🏢 Experiencia profesional en digitalización, gestión de grandes volúmenes de datos y soporte IT en el sector público[cite: 1].
+- 🎓 **Estudiante avanzado de Ingeniería en Sistemas**, cursando materias de 4º y 5º año.
+- 💻 Desarrollador Full Stack con enfoque principal en el **stack MERN** y trabajo bajo metodologías ágiles como Scrum.
+- 🏢 Experiencia profesional en digitalización, gestión de grandes volúmenes de datos y soporte IT en el sector público.
 - 🤖 Entusiasta de la **Inteligencia Artificial**. Actualmente explorando la integración de modelos de IA y la automatización de flujos de trabajo con herramientas como **n8n**.
-- 🚀 Proactivo, orientado a la resolución de problemas y con capacidad de aprendizaje rápido para aportar soluciones eficientes[cite: 1].
+- 🚀 Proactivo, orientado a la resolución de problemas y con capacidad de aprendizaje rápido para aportar soluciones eficientes.
 
 ---
 
