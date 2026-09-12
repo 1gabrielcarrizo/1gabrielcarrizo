@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Gabriel Gilbert</h1>
+<h1 align="center">Hola 👋, soy Gabriel.</h1>
 <h3 align="center">Estudiante avanzado de Ingeniería en Sistemas & Desarrollador Full-Stack</h3>
 
 <p align="center">
